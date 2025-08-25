@@ -44,6 +44,9 @@
 	<key>CADisableMinimumFrameDurationOnPhone</key>
 	<true/>
 	<key>UIApplicationSupportsIndirectInputEvents</key>
-	<true/>
+	<true/><key>NSAppleMusicUsageDescription</key>
+	<string>Explain why your app uses music</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>Explain why your app uses photo library</string>
 </dict>
 </plist>
